@@ -1,0 +1,6 @@
+Fragment shader failed to compile with the following errors:
+ERROR: 0:48: error(#202) No matching overloaded function found: isPartOfCircle
+ERROR: 0:49: error(#143) Undeclared identifier: data
+ERROR: 0:49: error(#160) Cannot convert from: "const highp 4-component vector of vec4" to: "float"
+ERROR: error(#273) 3 compilation errors.  No code generated
+

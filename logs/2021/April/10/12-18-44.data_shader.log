@@ -1,0 +1,5 @@
+Fragment shader failed to compile with the following errors:
+ERROR: 0:36: error(#143) Undeclared identifier: pressedOnce
+ERROR: 0:37: error(#143) Undeclared identifier: isGoingUp
+ERROR: error(#273) 2 compilation errors.  No code generated
+

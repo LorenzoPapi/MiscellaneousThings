@@ -1,0 +1,5 @@
+Fragment shader failed to compile with the following errors:
+ERROR: 0:31: error(#143) Undeclared identifier: goUp
+ERROR: 0:31: error(#202) No matching overloaded function found: goUp
+ERROR: error(#273) 2 compilation errors.  No code generated
+

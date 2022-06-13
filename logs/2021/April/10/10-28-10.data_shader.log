@@ -1,0 +1,4 @@
+Fragment shader failed to compile with the following errors:
+ERROR: 0:26: error(#143) Undeclared identifier: pos
+ERROR: error(#273) 1 compilation errors.  No code generated
+
