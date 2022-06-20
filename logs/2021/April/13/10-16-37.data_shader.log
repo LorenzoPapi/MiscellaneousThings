@@ -1,5 +1,0 @@
-Fragment shader failed to compile with the following errors:
-ERROR: 0:37: error(#162) Wrong operand types: no operation "&&" exists that takes a left-hand operand of type "bool" and a right operand of type "highp float" (or there is no acceptable conversion)
-ERROR: 0:37: error(#132) Syntax error: "!" parse error
-ERROR: error(#273) 2 compilation errors.  No code generated
-

@@ -1,6 +1,0 @@
-Fragment shader failed to compile with the following errors:
-ERROR: 0:39: error(#143) Undeclared identifier: jump
-ERROR: 0:39: error(#216) Vector field selection out of range "y"
-ERROR: 0:41: error(#132) Syntax error: "f" parse error
-ERROR: error(#273) 3 compilation errors.  No code generated
-

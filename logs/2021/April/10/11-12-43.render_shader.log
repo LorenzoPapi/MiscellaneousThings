@@ -1,5 +1,0 @@
-Fragment shader failed to compile with the following errors:
-ERROR: 0:58: error(#143) Undeclared identifier: gl_fragColor
-ERROR: 0:58: error(#160) Cannot convert from: "4-component vector of vec4" to: "float"
-ERROR: error(#273) 2 compilation errors.  No code generated
-

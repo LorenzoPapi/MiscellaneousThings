@@ -1,4 +1,0 @@
-Fragment shader failed to compile with the following errors:
-ERROR: 0:39: error(#143) Undeclared identifier: z
-ERROR: error(#273) 1 compilation errors.  No code generated
-

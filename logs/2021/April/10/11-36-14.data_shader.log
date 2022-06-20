@@ -1,4 +1,0 @@
-Fragment shader failed to compile with the following errors:
-ERROR: 0:29: error(#164) l-value required: assign "keyW" (can't modify a uniform)
-ERROR: error(#273) 1 compilation errors.  No code generated
-
